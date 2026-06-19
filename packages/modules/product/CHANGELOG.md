@@ -1,5 +1,12 @@
 # @medusajs/product
 
+## 2.16.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.16.1
+
 ## 2.16.0
 
 ### Patch Changes

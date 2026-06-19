@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.16.1
+
+### Patch Changes
+
+- [#15734](https://github.com/medusajs/medusa/pull/15734) [`6617a612ef57a0fa1b5fdea72b10e78205af56e9`](https://github.com/medusajs/medusa/commit/6617a612ef57a0fa1b5fdea72b10e78205af56e9) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - chore(order): add line_item_metadata to OrderLineItem type
+
+- Updated dependencies []:
+  - @medusajs/framework@2.16.1
+
 ## 2.16.0
 
 ### Patch Changes
